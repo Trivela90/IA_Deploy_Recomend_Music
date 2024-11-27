@@ -1,7 +1,6 @@
-import numpy as np
-import pandas as pd
-import random
-import streamlit as st
-from sklearn.preprocessing import StandardScaler
-from sklearn.metrics.pairwise import cosine_similarity
-from joblib import dump, load
+pip install numpy
+pip install pandas
+pip install random
+pip install streamlit
+pip install joblib
+pip install scikit-learn
