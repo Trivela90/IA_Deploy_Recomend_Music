@@ -1,6 +1,6 @@
-pip install numpy
-pip install pandas
-pip install random
-pip install streamlit
-pip install joblib
-pip install scikit-learn
+numpy
+pandas
+random
+streamlit
+joblib
+scikit-learn
