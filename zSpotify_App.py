@@ -1,21 +1,21 @@
 # ---- Biblliotecas ----
 import numpy as np
 import pandas as pd
-import matplotlib.pyplot as plt
+# import matplotlib.pyplot as plt
 import random
 import streamlit as st
 
-from sklearn.model_selection import train_test_split
+# from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler
-from sklearn.model_selection import GridSearchCV
-from sklearn.cluster import KMeans, DBSCAN, AgglomerativeClustering
-from sklearn.decomposition import PCA, IncrementalPCA
-from sklearn.mixture import GaussianMixture
+# from sklearn.model_selection import GridSearchCV
+# from sklearn.cluster import KMeans, DBSCAN, AgglomerativeClustering
+# from sklearn.decomposition import PCA, IncrementalPCA
+# from sklearn.mixture import GaussianMixture
 from sklearn.metrics.pairwise import cosine_similarity
-from sklearn.metrics import silhouette_score
+# from sklearn.metrics import silhouette_score
 from joblib import dump, load
 
-from yellowbrick.cluster import KElbowVisualizer # cluster visualizer (requer pip install setuptools)
+# from yellowbrick.cluster import KElbowVisualizer # cluster visualizer (requer pip install setuptools)
 # --------------------------------------------------------------------
 
 # streamlit run c:/IC_Petrobras/CODE/Codigo1_begin/zSpotify_App.py
